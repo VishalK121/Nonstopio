@@ -1,14 +1,14 @@
-# Nonstopio
-# Assessment Name
+### Nonstopio
+#### Assessment Name
 News Classification using Python
 
-## Installation
+#### Installation
 You will require jupyter notebook to run the project.
 
-## Usage
+#### Usage
 Simply run each cell sequentially.
 
-## Steps
+#### Steps
 1. Import all the modules that are required.
 2. Scrap the data from the website such as title and category.
 3. Dividing the data into train_data and test_data.
